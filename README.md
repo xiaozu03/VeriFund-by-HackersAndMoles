@@ -1,7 +1,7 @@
 # VeriFund: Transforming Charity with Blockchain
 by-HackersAndMoles
 
-Link to Figma Prototype: [Click Me to View Prototype](https://www.figma.com/proto/3EVvDp2ZhIOusYgOp1uuAy/V1---Hackers---Moles-UM-Hackathon?node-id=1-7&t=BE3Mb0FHivf1UCWE-1&starting-point-node-id=1%3A7)
+Link to Figma Prototype: [Click Me to View the Prototype](https://www.figma.com/proto/3EVvDp2ZhIOusYgOp1uuAy/V1---Hackers---Moles-UM-Hackathon?node-id=1-7&t=BE3Mb0FHivf1UCWE-1&starting-point-node-id=1%3A7)
 
 Link to Our Pitch Deck: [Click Me to View the Slide](https://www.canva.com/design/DAGkMBNoiYE/zhTjv9qC6Znger5eWOocJw/edit?utm_content=DAGkMBNoiYE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
