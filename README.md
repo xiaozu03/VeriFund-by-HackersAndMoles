@@ -80,9 +80,6 @@ VeriFund is designed to tackle these challenges head-on:
 - **Smart Contracts:**  
   Automate processes such as fund release and project verification, ensuring efficiency and eliminating manual errors.
 
-- **Cloud & API Integrations:**  
-  Seamlessly connect with external financial and charity management systems for scalability and broader access.
-
 ---
 
 ## Impact and Benefits
@@ -129,23 +126,21 @@ VeriFund operates on a sustainable, Shariah-compliant business model:
 
 ## Team
 
-We are a diverse team of fintech experts, blockchain developers, and social impact enthusiasts committed to transforming charity fundraising. Our passion for innovation and trust drives our vision for a transparent and efficient charitable ecosystem.
+A team of students from Univerisity of Technology Sarawak, committed to transforming charity fundraising. Our passion for innovation and trust drives our vision for a transparent and efficient charitable ecosystem.
 
 ---
 
 ## Get Involved
 
 We invite donors, NGOs, and tech innovators to join us on this journey toward a more transparent and accountable charity sector.  
-- **Website:** [www.verifund.com](http://www.verifund.com)  
-- **Email:** contact@verifund.com  
-- **Social Media:** Follow us on Twitter, LinkedIn, and Facebook for the latest updates.
+- **Website:** [www.verifund.com](http://www.verifund.com)  (Just for Fun)
+- **Email:** contact@verifund.com (Also not true) 
+- **Social Media:** Follow us on Twitter, LinkedIn, and Facebook for the latest updates. (Also for fun only)
 
 ---
 
 ## License
-
-VeriFund is released under the MIT License. See [LICENSE](LICENSE) for details.
-
+--
 ---
 
 *Together, let's build a transparent, efficient, and engaging future for charity fundraising with VeriFund!*
