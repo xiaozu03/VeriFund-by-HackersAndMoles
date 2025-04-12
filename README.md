@@ -1,6 +1,8 @@
 # VeriFund: Transforming Charity with Blockchain
 by-HackersAndMoles
 
+Figma Prototype Link: [Click Me to View Prototype](https://www.figma.com/design/3EVvDp2ZhIOusYgOp1uuAy/V1---Hackers---Moles-UM-Hackathon?node-id=326-58&m=dev&t=BE3Mb0FHivf1UCWE-1)
+
 VeriFund is a revolutionary blockchain-based Crowdfunding Platform-as-a-Service (PaaS) designed to bring transparency, efficiency, and engagement to the charitable giving ecosystem. By harnessing the power of blockchain technology, VeriFund ensures that every transaction is immutable, verifiable, and fully traceable—a new standard for trust and accountability in charity.
 
 ---
