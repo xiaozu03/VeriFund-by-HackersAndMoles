@@ -126,7 +126,7 @@ VeriFund operates on a sustainable, Shariah-compliant business model:
 
 ## Team
 
-A team of students from Univerisity of Technology Sarawak, committed to transforming charity fundraising. Our passion for innovation and trust drives our vision for a transparent and efficient charitable ecosystem.
+A team of students from University of Technology Sarawak, committed to transforming charity fundraising. Our passion for innovation and trust drives our vision for a transparent and efficient charitable ecosystem.
 
 ---
 
